@@ -7,7 +7,7 @@
 - MNIST Data : 손글씨 숫자 이미지 집합
 
 ### Iris
-* Baseline copy code [코드](./Iris_baseline.ipynb)
-* sklearn , kfold [코드](./Iris_sklearn.ipynb)
-* torch [코드](./Iris_torch)
+* Baseline copy code    [코드](./Iris/Iris_baseline.ipynb)
+* sklearn , kfold       [코드](./Iris/Iris_sklearn.ipynb)
+* torch                 [코드](./Iris/Iris_torch)
 
