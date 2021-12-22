@@ -9,5 +9,5 @@
 ### Iris
 * Baseline copy code    [코드](./Iris/Iris_baseline.ipynb)
 * sklearn , kfold       [코드](./Iris/Iris_sklearn.ipynb)
-* torch                 [코드](./Iris/Iris_torch)
+* torch                 [코드](./Iris/Iris_torch.ipynb)
 
