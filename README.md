@@ -8,6 +8,6 @@
 
 ### Iris
 * [코드](./Iris/Iris_baseline.ipynb) : Dacon Baselines copy    
-* [코드](./Iris/Iris_sklearn.ipynb) : sklearn , kfold       
-* [코드](./Iris/Iris_torch.ipynb) : torch                 
+* [코드](./Iris/Iris_sklearn.ipynb) : Sklearn , kfold       
+* [코드](./Iris/Iris_torch.ipynb) : Torch                 
 
